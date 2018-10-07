@@ -1,0 +1,7 @@
+/*
+Package sample provides functions to print some statements
+This file is to get the godoc functionality
+
+Function : PrintSample
+Prints the sample statement
+*/ 
